@@ -10,3 +10,5 @@ One GUI for encrytion and one for decryption.
 This code was written using Python 3.3.4 64 bit and has been tested on Windows 7 only.
 
 PyCrypto 2.6 for Python 3.3 64 bit cryptography package is required.
+
+Furth information can be found here: http://www.pax-pentest.net/programming/tkinter-pycrypto-gui-128-bit-aes-encryption/
