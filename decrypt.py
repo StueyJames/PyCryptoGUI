@@ -38,7 +38,7 @@ ent.focus()
 
 
 text = Text()
-text.insert('1.0', 'Paste (Ctrl+V) Your Cypher Text Here \nAfter Deleting This Text')
+text.insert('1.0', 'Paste (Ctrl+V) Your Cipher Text Here \nAfter Deleting This Text')
 text.config(width=30, height=3)
 text.pack(expand=YES, fill=BOTH)
 
