@@ -18,7 +18,7 @@ def encryption(privateInfo):
     cipher = AES.new(secret)
 
     encoded = EncodeAES(cipher, privateInfo)
-    print('Cyper Text:', encoded.decode('UTF-8'))
+    print('Cipher Text:', encoded.decode('UTF-8'))
 
 root = Tk()
 labelfont = ('times', 20, 'bold')
